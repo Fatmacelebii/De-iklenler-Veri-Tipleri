@@ -1,0 +1,1 @@
+# De-iklenler-Veri-Tipleri
