@@ -1,5 +1,4 @@
 public class degiskenVeriler {
-public static void main(String[] args) {
     int a = 100001;
     System.out.println(a);
     float ab = 25;
